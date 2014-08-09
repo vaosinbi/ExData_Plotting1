@@ -112,3 +112,11 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Instruction
+
+1. Clone repo to local drive
+2. Set working directory for R to ExData_Plotting1 folder
+3. Run plot1.R, plot2.R, plot3.R or plot4.R scripts. The script will automatically load source file from the Coursera site.
+   If you already have the source file, put in in data subdirectory. It should be unzipped and have the same name as file in archive.
+
+Note: load_data.R contains common code for all 4 scripts, which is used to load data.
